@@ -1,6 +1,6 @@
 # Linux/Macos scripts
 
-My personal scripts for converted my CD's to FLAC and then to MP3s.
+My personal scripts for converting my CD's to FLAC and then to MP3s.  This is not 100% automated yet.  It should be, but it is not as I was doing a lot of hand holding for my older CDs.
 
 # Disclaimer
 
