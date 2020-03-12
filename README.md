@@ -1,4 +1,4 @@
-# Linux/macos linux scripts
+# Linux/Macos scripts
 
 My personal scripts for converted my CD's to FLAC and then to MP3s.
 
