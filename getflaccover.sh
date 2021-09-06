@@ -8,8 +8,8 @@ echo $ARTIST | od -ax
 echo "album = $ALBUM"
 
 echo glyrc cover --artist "$ARTIST" --album "$ALBUM" -w cover.png 
-glyrc cover --artist "$ARTIST" --album "$ALBUM" -w cover.png || 
 glyrc cover --artist \"$ARTIST\" --album \"$ALBUM\" -w cover.png || 
+glyrc cover --artist "$ARTIST" --album "$ALBUM" -w cover.png || 
 exit 22
 
 for f in *.flac ; do 
